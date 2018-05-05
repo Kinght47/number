@@ -1,0 +1,33 @@
+﻿Apostle
+Hp80
+Dp70
+Ad10/22
+Dps1.61
+
+
+硬射R_f = f(X) = |f(x)|x∈X
+{\color{Red}R _{f}=f\left ( X \right )=|f(x)|\pm \epsilon X|}
+
+X = Set()
+
+Y = Set()
+
+f: 规则(隐射)
+f: X -> Y
+
+X[i] == Y[j]
+即
+x == y
+
+# y依赖f，可在x中找到y的映射(硬射)源
+# y为x的映射(硬射)
+y = f(x)
+# X为f的定义域
+D_f = X
+
+基函数
+f(-x) = -f(x)
+偶函数
+f(-x) = f(x)
+
+

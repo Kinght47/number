@@ -1,0 +1,65 @@
+﻿1.
+1)[-2/3, +Infinity)
+2)(-Infinity,-1)U(1,+Infinity)
+	缺(-1,1)
+3)(0,1)//(-1,1)
+	[-1,0)U(0,1]
+4)(-2,2)
+5)[0,π/2]//[0,π/2]
+	[0, +Infinity)
+6)(-π/2-1,π/2-1)//非[kπ+π/2-1]
+R\{(k+1/2)π-1|k∈Z}
+7)[-4,-1]
+	[2,4]
+8)[-1,0)U(0,1]
+	(-Infinity,0)U(0,3]
+9)(-1,+Infinity)
+10)(-Infinity,0)U(0,+Infinity)
+2.
+1)no
+2)yes
+3)no,g(x) 不能为0
+4)no,g(x) 不能为0
+3.
+4.
+1)
+2)
+5.
+6.
+7.
+1)even fn
+2)non fn
+3)even fn
+4)add fn
+5)non fn
+6)even fn
+8.
+1)
+2)
+3)
+4)0
+5)[-1,1]
+9.
+1)y = x^3-1
+2)y = (1-x)/(1+x)
+x=(1-y)/(1+y)
+x(1+y)=1-y
+x+xy=1-y
+xy+y=1-x
+y(x+1)=1-x
+3)y = (b-xd)/(cx-a)
+x=(ay+b)/(cy+d)
+cxy+xd=ay+b
+cxy-ay=b-xd
+y(cx-a)=b-xd
+4)y = 1/3*(arcsin x/2)
+x=2sin 3y // (-π/6<=y<=π/6)
+x/2=sin 3y
+3y=arcsin x/2
+5)y = e^(x-1)-2
+6)y = log_2 (x/(1-x))
+x(2^y+1)=2^y
+x*2^y+x=2^y
+2^y(1-x)=x
+2^y=x/(1-x)
+
