@@ -1,10 +1,10 @@
 ﻿Apostle
-Hp80
+Hp70
 Dp70
 Ad10/22
-Dps1.61
+Dps1.61->1.11
 
-
+1.映射与函数
 硬射R_f = f(X) = |f(x)|x∈X
 {\color{Red}R _{f}=f\left ( X \right )=|f(x)|\pm \epsilon X|}
 
@@ -29,5 +29,28 @@ D_f = X
 f(-x) = -f(x)
 偶函数
 f(-x) = f(x)
+
+2.函数与极限
+(lim/n->∞)x_n = a
+0<| (lim/n->∞)x_n -a |<ε
+
+{\color{Red} \lim_{n\rightarrow\infty }x_{n}=a,\forall \varepsilon >0,\frac{1}{n^{2}}<\varepsilon => \frac{1}{\varepsilon}<n^{2}=> \frac{1}{\sqrt{\varepsilon}}<n  }
+四个定理
+a)收敛数列有极限、且唯一
+b)收敛数列一定有界限，但有界限的不一定是收敛数列
+c)保号性，如果数列收敛于负数，则从某项后全都是负数 
+d)若数列收敛，极限为a，那么其子数列必定收敛，且极限也为a
+
+3.函数的极限
+1)自变量x趋于有限值时极限
+(lim/x->x_0)f(x) = A
+定义：|f(x)-A|<ε
+0<|x-x_0|<δ
+2)自变量x趋于无限值时极限
+
+定义：|f(x)-A|<ε
+|x|>X 即X>0时=>x>X，X<0时=>x<-X
+四个定理
+
 
 
